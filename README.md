@@ -1,3 +1,3 @@
-# yrtt-react-google-maps
+# yrtt-react-google-maps-routes
 
-This project integrates react with google-maps-react API. The webpage will display a static map based on the longitude and latitude obtained from the browser.
+This project integrates react with google-maps-react API. The webpage will display a map where the user can draw polylines on the map to draw a route.
